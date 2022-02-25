@@ -1,1 +1,2 @@
-[Welcome to my student e-portfolio!](https://geografif.github.io/eportfolio)
+## Remote sensing courses
+[EO-College](https://eo-college.org)
