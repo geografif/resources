@@ -25,6 +25,7 @@ Free learning resources
 * [GEE Beginner's Cookbook](https://developers.google.com/earth-engine/tutorials/community/beginners-cookbook)
 * [GEE Tutorials Page](https://developers.google.com/earth-engine/tutorials/tutorials)
 * [End-to-end GEE from Spatialthoughts](https://courses.spatialthoughts.com/end-to-end-gee.html)
+* [GEE with Python from Qiusheng Wu](https://blog.gishub.org/earth-engine)
 
 ### PostgreSQL & PostGIS
 
@@ -36,6 +37,45 @@ Free learning resources
 
 Handy websites
 
+### Forest
+* [Global Forest Watch](https://www.globalforestwatch.org/)
+* [Nusantara Atlas: Deforestation & Industrial Plantation in Indonesia](https://nusantara-atlas.org/#en)
+
+### Publishing
+* [StoryMapJS](https://storymap.knightlab.com/?utm_content=buffer9716d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
+### Geospatial tools
+* [Tool list from Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial)
+
+### Geography games
+* [Worldle](https://worldle.teuteuf.fr/)
+
 ---
 
 Data sources
+
+### Atmosphere
+* [Historical Air Temperature]()
+* [Historical Rainfall]()
+
+### Land
+* [Boundary]()
+* NaturalEarth
+* [ESRI Global Landcover 2020 10m]()
+* [ESA Global Landcover 2020 10m]()
+* [Corine EU Landcover 2000-2018]()
+* [Global Human Settlement Layer]()
+* [SoilGrid]()
+* Soil Respiration
+    * [Soil Respiration Database (SRDB) v5]()
+    * [Hashimoto]()
+* 
+
+### Coastal & Marine
+* [Maritime boundaries - International Hydrographic Organization]()
+* UNEP-WCMC
+    * [Mangroves]()
+    * [Coral reefs]()
+    * [Seagrasses]()
+* [Allen Coral Atlas]()
+* [Bathymetry - GEBCO]()
