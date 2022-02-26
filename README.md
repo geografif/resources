@@ -20,6 +20,7 @@ Free learning resources
 * [Earth Lab Colorado University](https://www.earthdatascience.org/courses/)
 * [Geospatial Analysis with R from University of Tartu](http://aasa.ut.ee/Rspatial/)
 * [Geospatial Analysis with Python from University of Tartu](https://kodu.ut.ee/~kmoch/geopython2021/)
+* [Our Coding Club](https://ourcodingclub.github.io/tutorials.html)
 
 ### Google Earth Engine
 * [GEE Beginner's Cookbook](https://developers.google.com/earth-engine/tutorials/community/beginners-cookbook)
