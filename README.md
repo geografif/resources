@@ -26,13 +26,15 @@ Free learning resources
    * [Spatial Analytics](https://geo-python-site.readthedocs.io/en/latest/)
    * [Automating GIS process](https://autogis-site.readthedocs.io/en/latest/)
    * [Spatial data science for sustainable development](https://autogis-site.readthedocs.io/en/latest/)
-* a
+* [Geocomputation with R](https://geocompr.robinlovelace.net/index.html)
+* [Dieghernan R blog](https://dieghernan.github.io/)
 
 ### Google Earth Engine
 * [GEE Beginner's Cookbook](https://developers.google.com/earth-engine/tutorials/community/beginners-cookbook)
 * [GEE Tutorials Page](https://developers.google.com/earth-engine/tutorials/tutorials)
 * [End-to-end GEE from Spatialthoughts](https://courses.spatialthoughts.com/end-to-end-gee.html)
 * [GEE with Python from Qiusheng Wu](https://blog.gishub.org/earth-engine)
+* [Awesome GEE list](https://github.com/giswqs/Awesome-GEE)
 
 ### PostgreSQL & PostGIS
 
