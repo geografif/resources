@@ -21,6 +21,12 @@ Free learning resources
 * [Geospatial Analysis with R from University of Tartu](http://aasa.ut.ee/Rspatial/)
 * [Geospatial Analysis with Python from University of Tartu](https://kodu.ut.ee/~kmoch/geopython2021/)
 * [Our Coding Club](https://ourcodingclub.github.io/tutorials.html)
+* Henrikki Tenkanen's courses page:
+   * [Geo-Python](https://geo-python-site.readthedocs.io/en/latest/)
+   * [Spatial Analytics](https://geo-python-site.readthedocs.io/en/latest/)
+   * [Automating GIS process](https://autogis-site.readthedocs.io/en/latest/)
+   * [Spatial data science for sustainable development](https://autogis-site.readthedocs.io/en/latest/)
+* a
 
 ### Google Earth Engine
 * [GEE Beginner's Cookbook](https://developers.google.com/earth-engine/tutorials/community/beginners-cookbook)
